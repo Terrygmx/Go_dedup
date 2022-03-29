@@ -1,0 +1,16 @@
+delimiter: 
+  row: 
+    - 10
+  col: 
+    - 1
+
+filters: 
+  filter:
+    - index: 4
+    - value: 
+      - "0"
+      - "1"
+      - "2"
+      - "3"
+dedupKey: 
+  - 2
